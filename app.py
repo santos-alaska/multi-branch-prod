@@ -187,7 +187,7 @@ HTML_TEMPLATE = """
     <!-- Hero Section -->
     <section class="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-16">
         <div class="max-w-7xl mx-auto px-4 text-center">
-            <h1 class="text-4xl md:text-6xl font-bold mb-4">Welcome to shopify</h1>
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">Welcome to shell</h1>
             <p class="text-xl mb-8">Discover amazing products at great prices</p>
             <div class="flex justify-center space-x-4">
                 <button onclick="scrollToProducts()" class="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition duration-300">
